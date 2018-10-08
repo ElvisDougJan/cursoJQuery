@@ -1,0 +1,3 @@
+$(() => {
+  // $('#teste').html('Texto mudado')
+})
